@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Locations: Big & Small ...'
-datePublished: '2016-04-26T17:28:58.511Z'
-dateModified: '2016-04-26T17:28:39.862Z'
+datePublished: '2016-04-26T19:13:21.153Z'
+dateModified: '2016-04-26T19:12:52.602Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-26-locations-big-and-small-.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,8 +18,6 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-26-locations-big-and-small-.md
-published: true
 url: locations-big-and-small-/index.html
 _type: Article
 
