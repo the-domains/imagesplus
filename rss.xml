@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[ImagesPlus]]></title>
         <description><![CDATA[ImagesPlus]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/imagesplus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 16:55:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 17:06:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/imagesplus/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Liquids:</p>]]></description>
+            <link>https://thegrid.ai/imagesplus/liquids/index.html</link>
+            <guid isPermaLink="false">c57e498d-1c58-4107-b1a0-d5366ec9e363</guid>
+            <pubDate>Tue, 26 Apr 2016 17:06:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/120e693d-3abf-4a18-aa48-93616451a74d.jpg">]]></description>
-            <link>undefinedwelcome-images-plus-photography-has-been-in-business-since/index.html</link>
+            <link>https://thegrid.ai/imagesplus/welcome-images-plus-photography-has-been-in-business-since/index.html</link>
             <guid isPermaLink="false">0aaf79bd-1b76-4a11-b6a9-c1ca6a085d4c</guid>
             <pubDate>Tue, 26 Apr 2016 16:54:54 GMT</pubDate>
         </item>
